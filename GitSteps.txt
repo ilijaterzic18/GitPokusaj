@@ -1,3 +1,4 @@
+Source: https://www.youtube.com/watch?v=bb_LoXAC-zE
 1. Napravi repozitorijum na GitHub-u
 2. Proveriti Windows Credentials
 3. Otvori GitBash u folderu u kome hocemo
