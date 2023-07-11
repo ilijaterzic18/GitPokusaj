@@ -20,4 +20,9 @@
 13. git status - sad ce da budu zeleni oni koji su ubaceni
 14. git commit -m "Poruka koju hocemo da kucamo sa commit-om"
 15. git status
-16. 
+16. promeniti sadrzaj file.txt
+17. git status
+18. git add .
+19. git commit -m "poruka"
+20. git remote add origin <link od repozitorijuma> - stavljanje fajlova u repozitorijum
+21. git push -u origin master
