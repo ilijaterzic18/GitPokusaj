@@ -27,3 +27,7 @@ Source: https://www.youtube.com/watch?v=bb_LoXAC-zE
 19. git commit -m "poruka"
 20. git remote add origin <link od repozitorijuma> - stavljanje fajlova u repozitorijum
 21. git push -u origin master
+22. napravi novi folder
+23. otvori Git Bash u njemu
+24. git init
+25. git pull <link od repozitorijuma>
