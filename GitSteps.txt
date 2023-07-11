@@ -1,0 +1,21 @@
+1. Napravi repozitorijum na GitHub-u
+2. Proveriti Windows Credentials
+3. Otvori GitBash u folderu u kome hocemo
+-Komande:
+	-pwd (present working directory)
+	-ls (ili dir) (da se izlistaju svi fajlovi u trenutnom folderu
+	-cd (change directory)
+	-cd .. (korak nazad)
+	-touch <ime fajla> - kreiranje novog fajla
+4. git config --global user.name "<GitHub username>"
+5. git config --global email "<GitHub email>"
+6. git config --list - provera da li je sve ok
+7. napravimo fajl koji hocemo (touch file.txt)
+8. git status - da vidimo 
+9. git init - da od trenutnog foldera u kome smo napravimo git repozitorijum
+9.1. u tom folderu se sada moze ici na View -> Hidden items i sad ce da se pojaviti .git folder
+10. git status - notice the difference
+11. git add <ime fajla> - ubacujemo fajl u repozitorijum koji zelimo da trackujemo, odnosno ovi fajlovi ce se commit-ovati
+12. git add . - ubacivanje svih fajlova iz trenutnog foldera
+13. git status - sad ce da budu zeleni oni koji su ubaceni
+14. 
