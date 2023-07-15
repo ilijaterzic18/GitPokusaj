@@ -9,7 +9,7 @@ Source: https://www.youtube.com/watch?v=bb_LoXAC-zE
 	-cd .. (korak nazad)
 	-touch <ime fajla> - kreiranje novog fajla
 4. git config --global user.name "<GitHub username>"
-5. git config --global email "<GitHub email>"
+5. git config --global user.email "<GitHub email>"
 6. git config --list - provera da li je sve ok
 7. napravimo fajl koji hocemo (touch file.txt)
 8. git status - da vidimo 
