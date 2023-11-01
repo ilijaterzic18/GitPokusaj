@@ -32,3 +32,7 @@ Source: https://www.youtube.com/watch?v=bb_LoXAC-zE
 24. git init
 25. git pull <link od repozitorijuma>
 26. Visual Studio Code steps.....
+
+Menjanje grana:
+1. Menjanjeu postojecu granu: $ git checkout <existing_branch>
+2. Kreiranje nove grane i prelazak na nju: $ git checkout -b <new_branch>
