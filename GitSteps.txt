@@ -36,3 +36,4 @@ Source: https://www.youtube.com/watch?v=bb_LoXAC-zE
 Menjanje grana:
 1. Menjanjeu postojecu granu: $ git checkout <existing_branch>
 2. Kreiranje nove grane i prelazak na nju: $ git checkout -b <new_branch>
+3. Brisanje grane lokalno: $ git branch -d <branch_name>
